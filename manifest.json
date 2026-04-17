@@ -1,0 +1,13 @@
+{
+  "name": "FitTracker",
+  "short_name": "FitTracker",
+  "description": "食事・筋トレ・体重を管理するフィットネスアプリ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ff6b35",
+  "theme_color": "#ff6b35",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
